@@ -1,4 +1,4 @@
-# fivemtop.fr
+# FIVEMTOP
 Comme top-serveurs.net mais avec une interface totalement différente.
 
 # IMPORTANT 
@@ -10,3 +10,6 @@ Dès que j'aurais le temps, des mises a jours serons faites.
 2. Installer le sur un serveur web
 3. Connectez la base de donnée
 4. Les informations de connexion de base sont : admin admin
+
+# Utilisation 
+L'utilisation de la base est libre, en revanche toute revente de fivemtop est interdite !
