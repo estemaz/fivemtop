@@ -13,3 +13,6 @@ Dès que j'aurais le temps, des mises a jours serons faites.
 
 # Utilisation 
 L'utilisation de la base est libre, en revanche toute revente de fivemtop est interdite !
+
+# Support
+https://discord.gg/esdq2FAPEz
